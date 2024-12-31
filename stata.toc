@@ -1,4 +1,3 @@
-#
 # stata.toc
 #
 # This file tells Stata about the contents of this package.
@@ -17,5 +16,4 @@ version 16
 
 
 # Here is a list of files that make up this package.
-
 sharinganhtml.ado
