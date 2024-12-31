@@ -2,7 +2,7 @@
   "name": "sharingan",
   "version": "1.0.0",
   "description": "Câu lệnh sharingan trong Stata",
-  "main": "sharingan.ado",
+  "main": "sharinganhtml.ado",
   "repository": {
     "type": "git",
     "url": "https://github.com/leanhngoc147/sharinganstata.git"
