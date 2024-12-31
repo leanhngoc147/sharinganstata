@@ -1,0 +1,21 @@
+#
+# stata.toc
+#
+# This file tells Stata about the contents of this package.
+
+
+# Lines beginning with *! are comments.
+
+*! version 1.0.0
+*! date 2024-12-31
+
+
+# The program that installs this package should verify that Stata
+# is version 16 or newer.
+
+version 16
+
+
+# Here is a list of files that make up this package.
+
+sharinganhtml.ado
